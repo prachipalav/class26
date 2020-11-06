@@ -51,6 +51,7 @@ function draw(){
     ground.display();
     pig1.display();
     log1.display();
+    //console.log("HELLLLLLLLLLLLLLLLOOOOOOOOOOOOOOOOOOOOOOOOOOO")
 
     box3.display();
     box4.display();
